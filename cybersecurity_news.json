@@ -1,0 +1,110 @@
+{
+    "2024-07-23": [
+        {
+            "title": "BreachForums v1 hacking forum data leak exposes members\u2019 info",
+            "link": "https://www.bleepingcomputer.com/news/security/breachforums-v1-hacking-forum-data-leak-exposes-members-info/",
+            "summary": "The private member information of the\u00a0BreachForums v1 hacking forum from 2022 has been leaked online, allowing threat actors and researchers to gain insight into its users. [...]",
+            "published": "Tue, 23 Jul 2024 15:24:41 -0400",
+            "source": "Bleeping Computer",
+            "content": "Full article content could not be retrieved."
+        },
+        {
+            "title": "FrostyGoop malware attack cut off heat in Ukraine during winter",
+            "link": "https://www.bleepingcomputer.com/news/security/frostygoop-malware-attack-cut-off-heat-in-ukraine-during-winter/",
+            "summary": "Russian-linked malware was used in a January 2024 cyberattack to cut off the heating of over 600 apartment buildings in Lviv, Ukraine, for two days during sub-zero temperatures. [...]",
+            "published": "Tue, 23 Jul 2024 13:35:04 -0400",
+            "source": "Bleeping Computer",
+            "content": "Full article content could not be retrieved."
+        },
+        {
+            "title": "Verizon to pay $16 million in TracFone data breach settlement",
+            "link": "https://www.bleepingcomputer.com/news/security/verizon-to-pay-16-million-in-tracfone-data-breach-settlement/",
+            "summary": "Verizon Communications has agreed to a $16,000,000 settlement with the Federal Communications Commission (FCC) in the U.S. concerning three data breach incidents its wholly-owned subsidiary, TracFone Wireless, suffered after its acquisition in 2021. [...]",
+            "published": "Tue, 23 Jul 2024 12:34:56 -0400",
+            "source": "Bleeping Computer",
+            "content": "Full article content could not be retrieved."
+        },
+        {
+            "title": "Fake CrowdStrike repair manual pushes new infostealer malware",
+            "link": "https://www.bleepingcomputer.com/news/security/fake-crowdstrike-repair-manual-pushes-new-daolpu-infostealer-malware/",
+            "summary": "CrowdStrike is warning that a fake recovery manual to repair Windows devices is installing a new information-stealing malware called Daolpu. [...]",
+            "published": "Tue, 23 Jul 2024 10:31:56 -0400",
+            "source": "Bleeping Computer",
+            "content": "Full article content could not be retrieved."
+        }
+    ],
+    "2024-07-22": [
+        {
+            "title": "Greece\u2019s Land Registry agency breached in wave of 400 cyberattacks",
+            "link": "https://www.bleepingcomputer.com/news/security/greeces-land-registry-agency-breached-in-wave-of-400-cyberattacks/",
+            "summary": "The Land Registry agency in Greece has announced that it suffered a limited-scope data breach following a wave of 400 cyberattacks targeting its IT infrastructure over the last week. [...]",
+            "published": "Mon, 22 Jul 2024 18:46:31 -0400",
+            "source": "Bleeping Computer",
+            "content": "Full article content could not be retrieved."
+        },
+        {
+            "title": "Google rolls back decision to kill third-party cookies in Chrome",
+            "link": "https://www.bleepingcomputer.com/news/security/google-rolls-back-decision-to-kill-third-party-cookies-in-chrome/",
+            "summary": "Google has scrapped its plan to kill third-party cookies in Chrome and will instead introduce a new browser experience to allows users to limit how these cookies are used. [...]",
+            "published": "Mon, 22 Jul 2024 18:23:14 -0400",
+            "source": "Bleeping Computer",
+            "content": "Full article content could not be retrieved."
+        },
+        {
+            "title": "US sanctions Russian hacktivists who breached water facilities",
+            "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-hacktivists-who-breached-water-facilities/",
+            "summary": "The US government has imposed sanctions on two Russian cybercriminals for cyberattacks targeting critical infrastructure. [...]",
+            "published": "Mon, 22 Jul 2024 14:16:25 -0400",
+            "source": "Bleeping Computer",
+            "content": "Full article content could not be retrieved."
+        },
+        {
+            "title": "New Play ransomware Linux version targets VMware ESXi VMs",
+            "link": "https://www.bleepingcomputer.com/news/security/new-play-ransomware-linux-version-targets-vmware-esxi-vms/",
+            "summary": "Play ransomware is the latest ransomware gang to start deploying a dedicated Linux locker for encrypting VMware ESXi virtual machines. [...]",
+            "published": "Mon, 22 Jul 2024 13:01:51 -0400",
+            "source": "Bleeping Computer",
+            "content": "Full article content could not be retrieved."
+        },
+        {
+            "title": "Police infiltrates, takes down DigitalStress DDoS-for-hire service",
+            "link": "https://www.bleepingcomputer.com/news/security/police-infiltrates-takes-down-digitalstress-ddos-for-hire-service/",
+            "summary": "DDoS-for-hire service DigitalStress was taken down on July 2 in a joint law enforcement operation led by the United Kingdom's National Crime Agency (NCA). [...]",
+            "published": "Mon, 22 Jul 2024 11:51:34 -0400",
+            "source": "Bleeping Computer",
+            "content": "Full article content could not be retrieved."
+        },
+        {
+            "title": "Telegram zero-day allowed sending malicious Android APKs as videos",
+            "link": "https://www.bleepingcomputer.com/news/security/telegram-zero-day-allowed-sending-malicious-android-apks-as-videos/",
+            "summary": "A Telegram for Android zero-day vulnerability dubbed 'EvilVideo' allowed attackers to send malicious Android APK payloads disguised as video files. [...]",
+            "published": "Mon, 22 Jul 2024 10:41:55 -0400",
+            "source": "Bleeping Computer",
+            "content": "Full article content could not be retrieved."
+        },
+        {
+            "title": "Los Angeles Superior Court shuts down after ransomware attack",
+            "link": "https://www.bleepingcomputer.com/news/security/los-angeles-superior-court-shuts-down-after-ransomware-attack/",
+            "summary": "The largest trial court in the United States, the Superior Court of Los Angeles County, closed all 36 courthouse locations on Monday to restore systems affected by a Friday ransomware attack. [...]",
+            "published": "Mon, 22 Jul 2024 10:37:50 -0400",
+            "source": "Bleeping Computer",
+            "content": "Full article content could not be retrieved."
+        },
+        {
+            "title": "End-user cybersecurity errors that can cost you millions",
+            "link": "https://www.bleepingcomputer.com/news/security/end-user-cybersecurity-errors-that-can-cost-you-millions/",
+            "summary": "An innocent mistake can lead to a corporate nightmare. Learn from Specops Software about five of the most frequent cybersecurity blunders that can let attackers breach a network. [...]",
+            "published": "Mon, 22 Jul 2024 10:02:04 -0400",
+            "source": "Bleeping Computer",
+            "content": "Full article content could not be retrieved."
+        },
+        {
+            "title": "Spain arrests three for using DDoSia hacktivist platform",
+            "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-three-for-using-ddosia-hacktivist-platform/",
+            "summary": "The Spanish authorities have arrested three individuals for using DDoSia, a distributed denial of service platform operated by pro-Russian hacktivists, to conduct DDoS attacks against governments and organizations in NATO countries. [...]",
+            "published": "Mon, 22 Jul 2024 09:18:42 -0400",
+            "source": "Bleeping Computer",
+            "content": "Full article content could not be retrieved."
+        }
+    ]
+}
